@@ -1,2 +1,2 @@
 # TcpSpammer
-TCP Spammer, sends TCP spam.
+TCP Spammer, it just sends TCP spam.
