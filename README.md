@@ -1,2 +1,3 @@
 # TcpSpammer
-TCP Spammer application, to send TCP spam.
+
+TCP Spammer, it just sends TCP spam.
